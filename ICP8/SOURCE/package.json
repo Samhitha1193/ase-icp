@@ -1,0 +1,16 @@
+{
+  "name": "icp8_md_usman_gani_syed",
+  "version": "1.0.0",
+  "description": "hell... this is nodeJs man....!!! love it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MD USMAN GANI SYED",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
