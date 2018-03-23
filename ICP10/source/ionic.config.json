@@ -1,0 +1,12 @@
+{
+  "name": "ng-speech-recognition-demo",
+  "app_id": "b2e8b04c",
+  "integrations": {},
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}
